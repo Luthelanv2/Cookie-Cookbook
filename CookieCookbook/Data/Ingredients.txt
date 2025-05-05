@@ -1,0 +1,8 @@
+{"$type":"WheatFlour","ID":1,"Name":"Wheat Flour"}
+{"$type":"CoconutFlour","ID":2,"Name":"CoconutFlour"}
+{"$type":"Butter","ID":3,"Name":"Butter"}
+{"$type":"Chocolate","ID":4,"Name":"Chocolate"}
+{"$type":"Sugar","ID":5,"Name":"Sugar"}
+{"$type":"Cardamom","ID":6,"Name":"Cardamom"}
+{"$type":"Cinnamon","ID":7,"Name":"Cinnamon"}
+{"$type":"CocoaPowder","ID":8,"Name":"CocoaPowder"}

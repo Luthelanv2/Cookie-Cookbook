@@ -1,0 +1,14 @@
+d:\Coding_Documents\C#\CookieCookbook\bin\Debug\net9.0\CookieCookbook.exe
+D:\Coding_Documents\C#\CookieCookbook\bin\Debug\net9.0\CookieCookbook.deps.json
+D:\Coding_Documents\C#\CookieCookbook\bin\Debug\net9.0\CookieCookbook.runtimeconfig.json
+d:\Coding_Documents\C#\CookieCookbook\bin\Debug\net9.0\CookieCookbook.dll
+d:\Coding_Documents\C#\CookieCookbook\bin\Debug\net9.0\CookieCookbook.pdb
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.AssemblyInfoInputs.cache
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.AssemblyInfo.cs
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.csproj.CoreCompileInputs.cache
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.dll
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\refint\CookieCookbook.dll
+d:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.pdb
+D:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\CookieCookbook.genruntimeconfig.cache
+D:\Coding_Documents\C#\CookieCookbook\obj\Debug\net9.0\ref\CookieCookbook.dll
