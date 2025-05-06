@@ -7,3 +7,4 @@
 {"ID":1,"Name":"Bauemler Baumel Cookie","Ingredients":[{"$type":"CocoaPowder","ID":8,"Name":"CocoaPowder"},{"$type":"WheatFlour","ID":1,"Name":"Wheat Flour"}]}
 {"ID":1,"Name":"Nameless","Ingredients":[{"$type":"CoconutFlour","ID":2,"Name":"Coconut flour"},{"$type":"Cardamom","ID":6,"Name":"Cardamom"}]}
 {"ID":1,"Name":"Baumelkuchen","Ingredients":[{"$type":"WheatFlour","ID":1,"Name":"Wheat Flour"},{"$type":"CoconutFlour","ID":2,"Name":"Coconut flour"}]}
+{"ID":1,"Name":"Nameless Recipe","Ingredients":[{"$type":"Cardamom","ID":6,"Name":"Cardamom"},{"$type":"Cardamom","ID":6,"Name":"Cardamom"}]}

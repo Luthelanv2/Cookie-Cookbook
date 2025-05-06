@@ -3,8 +3,21 @@ using Ingredients;
 
 public class FileService
 {
-    public readonly string IngredientsLocation = @"D:\Coding_Documents\C#\CookieCookbook\Data\Ingredients.txt";
-    public readonly string RecipesLocation = @"D:\Coding_Documents\C#\CookieCookbook\Data\Recipes.txt";
+    public string IngredientsLocation {get;}
+    public string RecipesLocation {get;}
+
+    public FileService() {
+        var baseDir = AppContext.BaseDirectory;
+        var projectRoot = Path.GetFullPath(Path.Combine(baseDir, @"..\..\.."));
+
+        IngredientsLocation = Path.Combine(projectRoot, "Data", "Ingredients.txt");
+        RecipesLocation = Path.Combine(projectRoot, "Data", "Recipes.txt");
+    }
+
+    public FileService(string ingredientsLocation, string recipesLocation) {
+        IngredientsLocation = ingredientsLocation;
+        RecipesLocation = recipesLocation;
+    }
 
     public Task WriteRecipe(Recipe recipe) => Write(fileLocation: RecipesLocation, item: recipe);
     public Task WriteIngredient(Ingredient ingredient) => Write(fileLocation: IngredientsLocation, item: ingredient);

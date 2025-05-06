@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {}
+    "C:\\Users\\David\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding_Documents\\C#\\CookieCookbook\\CookieCookbook.csproj",
+      "projectUniqueName": "D:\\CodingDocuments\\C#\\Cookie-Cookbook\\CookieCookbook\\CookieCookbook.csproj",
       "projectName": "CookieCookbook",
-      "projectPath": "D:\\Coding_Documents\\C#\\CookieCookbook\\CookieCookbook.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding_Documents\\C#\\CookieCookbook\\obj\\",
+      "projectPath": "D:\\CodingDocuments\\C#\\Cookie-Cookbook\\CookieCookbook\\CookieCookbook.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "D:\\CodingDocuments\\C#\\Cookie-Cookbook\\CookieCookbook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
