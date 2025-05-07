@@ -8,13 +8,13 @@ public class UserInputService {
         return success && result >= min && result <= max;
     }
 
-    public void ValidateQuestion(string prompt) {
-        if(prompt.Equals("Y")) {
-
-        }
-        else if(prompt.Equals("N")) {
-            
-        }
+    public bool ValidateQuestion(string prompt, out string validAnswer) {
+        validAnswer = "";
+        if(prompt.Equals("Y") || prompt.Equals("N")) {
+            validAnswer = prompt;
+            return true;
+        } 
+        return false;
     }
     
 }
